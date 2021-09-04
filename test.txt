@@ -1,0 +1,4 @@
+sudo apt install build-essential dkms linux-headers-$(uname -r)
+hello, good morning
+Hii
+helllo
